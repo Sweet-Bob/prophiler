@@ -21,6 +21,15 @@ body {
   -webkit-perspective: none !important;
 }
 
+#toggle-button-prophiler {
+  color: gray;
+  font-size: 2em;
+  position: fixed;
+  right: 30px;
+  top: 80px;
+  z-index: 100000;
+}
+
 #prophiler {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-size: 12px;
